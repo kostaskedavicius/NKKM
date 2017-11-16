@@ -1,0 +1,74 @@
+CREATE DATABASE Shop;
+
+CREATE TABLE Phones
+(
+ ID SERIAL PRIMARY KEY,
+ Model VARCHAR(50),
+ OS VARCHAR(30),
+ Price FLOAT unsigned,
+ Availibility ENUM('Discontinued','Availible','Coming Soon')
+);
+
+CREATE TABLE Users
+(
+ ID SERIAL PRIMARY KEY,
+ Name VARCHAR(50),
+ Surname VARCHAR(50),
+ Passwd VARCHAR(32) DEFAULT "123"
+);
+
+CREATE TABLE Orders
+(
+ ID SERIAL PRIMARY KEY,
+ UserID BIGINT unsigned,
+ PhoneID BIGINT unsigned,
+ PriceSum FLOAT unsigned,
+ OrderDate DATE
+);
+
+
+
+
+INSERT INTO Phones VALUES
+(NULL,'X','iOS',999.99,3),
+(NULL,'X','iOS',999.99,3),
+(NULL,'X','iOS',999.99,3),
+(NULL,'X','iOS',999.99,3),
+(NULL,'8','iOS',999.99,2),
+(NULL,'8','iOS',999.99,2),
+(NULL,'8','iOS',999.99,2),
+(NULL,'GALAXY','Android',799.99,1),
+(NULL,'GALAXY','Android',799.99,1),
+(NULL,'GALAXY','Android',799.99,1);
+
+
+
+
+
+INSERT INTO Users VALUES
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123"),
+(NULL,'Mohhamed','Lee',"123");
+
+
+
+INSERT INTO Orders VALUES
+(NULL,1,1,999.99,CURRENT_TIMESTAMP),
+(NULL,2,2,999.99,CURRENT_TIMESTAMP),
+(NULL,3,3,999.99,CURRENT_TIMESTAMP),
+(NULL,4,4,999.99,CURRENT_TIMESTAMP),
+(NULL,5,5,999.99,CURRENT_TIMESTAMP),
+(NULL,6,6,999.99,CURRENT_TIMESTAMP),
+(NULL,7,7,999.99,CURRENT_TIMESTAMP),
+(NULL,8,8,799.99,CURRENT_TIMESTAMP),
+(NULL,9,9,799.99,CURRENT_TIMESTAMP),
+(NULL,10,10,799.99,CURRENT_TIMESTAMP);

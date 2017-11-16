@@ -1,0 +1,13 @@
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\bin\Debug\Dar vienas dinamis tipas 04.exe.config
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\bin\Debug\Dar vienas dinamis tipas 04.exe
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\bin\Debug\Dar vienas dinamis tipas 04.pdb
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar_vienas_dinamis_tipas_04.Form1.resources
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar_vienas_dinamis_tipas_04.Properties.Resources.resources
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.exe
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.pdb
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas 04\Dar vienas dinamis tipas 04\obj\Debug\Dar_vienas_dinamis_tipas_04.frmDictionary.resources
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas = Dictionary 04\Dar vienas dinamis tipas 04\bin\Debug\Dar vienas dinamis tipas 04.exe.config
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas = Dictionary 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.exe
+D:\Programming\NKKM\c#\Dar vienas dinamis tipas = Dictionary 04\Dar vienas dinamis tipas 04\obj\Debug\Dar vienas dinamis tipas 04.pdb

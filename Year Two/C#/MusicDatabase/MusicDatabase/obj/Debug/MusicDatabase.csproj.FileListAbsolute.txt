@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\bin\Debug\MusicDatabase.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\bin\Debug\MusicDatabase.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\bin\Debug\MusicDatabase.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MusicDatabase\MusicDatabase\obj\Debug\MusicDatabase.pdb

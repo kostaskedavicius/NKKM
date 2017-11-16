@@ -1,0 +1,9 @@
+D:\Programming\NKKM\c#\Delegatai\Delegatai\bin\Debug\Delegatai.exe.config
+D:\Programming\NKKM\c#\Delegatai\Delegatai\bin\Debug\Delegatai.exe
+D:\Programming\NKKM\c#\Delegatai\Delegatai\bin\Debug\Delegatai.pdb
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.Form1.resources
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.Properties.Resources.resources
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.exe
+D:\Programming\NKKM\c#\Delegatai\Delegatai\obj\Debug\Delegatai.pdb

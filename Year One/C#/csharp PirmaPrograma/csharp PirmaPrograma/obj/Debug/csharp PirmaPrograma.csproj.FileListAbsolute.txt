@@ -1,0 +1,9 @@
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\bin\Debug\csharp PirmaPrograma.exe.config
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\bin\Debug\csharp PirmaPrograma.exe
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\bin\Debug\csharp PirmaPrograma.pdb
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp PirmaPrograma.csprojResolveAssemblyReference.cache
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp_PirmaPrograma.Form1.resources
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp_PirmaPrograma.Properties.Resources.resources
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp PirmaPrograma.csproj.GenerateResource.Cache
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp PirmaPrograma.exe
+E:\Programming\NKKM\c#\csharp PirmaPrograma\csharp PirmaPrograma\obj\Debug\csharp PirmaPrograma.pdb

@@ -1,0 +1,28 @@
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe.config
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.pdb
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csprojResolveAssemblyReference.cache
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Form1.resources
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Properties.Resources.resources
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csproj.GenerateResource.Cache
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csproj.CoreCompileInputs.cache
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.exe
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.pdb
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe.config
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.pdb
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Form1.resources
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Properties.Resources.resources
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csproj.GenerateResource.Cache
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.exe
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.pdb
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe.config
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.exe
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\bin\Debug\WindowsChatClient.pdb
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Form1.resources
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.Properties.Resources.resources
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.csproj.GenerateResource.Cache
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.exe
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\WindowsChatClient\obj\Debug\WindowsChatClient.pdb

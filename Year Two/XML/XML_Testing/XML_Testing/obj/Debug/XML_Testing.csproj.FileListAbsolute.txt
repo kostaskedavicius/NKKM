@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\bin\Debug\XML_Testing.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\bin\Debug\XML_Testing.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\bin\Debug\XML_Testing.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\XML_Testing\XML_Testing\obj\Debug\XML_Testing.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Picture Browser.exe" version="1.0.0.0" publicKeyToken="33d0df6f02eb6353" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Picture Browser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Picture Browser.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Picture Browser.exe" size="12728">
+      <assemblyIdentity name="Picture Browser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+d1/fcJFfiJ6RrmYZ8Vv9Q5UqCgEc4vABoissxlFJxY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Picture Browser.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ADMIN-PC\Admin" issuerKeyHash="5e0413f18f7d157f6811b0dd9b7ad7f41e1941e4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mt/IMYJZ8Lx5pH/Xk/ArdmVD1cw7DzF45tibL4+2nFI=</DigestValue></Reference></SignedInfo><SignatureValue>q3kfsxgxGRzl/pxB4h/0TGU9LctM6NjqQZRFgp4VRjllgvM3a1KuJFezDlsX3DNaWa1ylCPz2pi+/WBDBdTmsYqcZkJtFerKcfo1ecF5nMI5eDccH+jQ/LVglMLMqLI1BjRqG73zTdriu0UTU1sPj+EcjzLd/VE9luEpMfgGuBA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tVX/QVgYvB+5JsgIuKYkr2GeOPaH3edEvFD+Ejqd7LbXRzZ2lsdrrebtDwK90BOwQM+WaoWc7sPayvNcqZOZY0SaWsm4DAn1MH/MUvP4s7jypOjHmvFAjYAqkKUSyxa9omLAVNWHTL9uwPRvyKsY3eRv/qZ2VCYv5nXO+xgkIAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="529cb68f2f9bd8e678310f3bccd54365762bf093d77fa479bcf0598231c8df9a" Description="" Url=""><as:assemblyIdentity name="Picture Browser.exe" version="1.0.0.0" publicKeyToken="33d0df6f02eb6353" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ADMIN-PC\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>v43Wib74eXHAFkv9yndlYwrZ/fVXQQumoxYvhM6cjew=</DigestValue></Reference></SignedInfo><SignatureValue>EOdKWBU75YT+UDtJm+VpD2piJKzmLgy0PvFJzKUKb+ECUqidZYGOMJhsI40G7i0CxkK0R8e3ClkyiJ97WoeZEUxdFMeUh5d5JDWTyaTtceB4+Sjsy3jDSWbYGcOSP8BR/gvOrrKzLZExDWUyw5kILmZW0yborOtW4DQgHt/9lLc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tVX/QVgYvB+5JsgIuKYkr2GeOPaH3edEvFD+Ejqd7LbXRzZ2lsdrrebtDwK90BOwQM+WaoWc7sPayvNcqZOZY0SaWsm4DAn1MH/MUvP4s7jypOjHmvFAjYAqkKUSyxa9omLAVNWHTL9uwPRvyKsY3eRv/qZ2VCYv5nXO+xgkIAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQNRhJypPS6KdF/JTqQDrKrzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAQQBEAE0ASQBOAC0AUABDAFwAQQBkAG0AaQBuMB4XDTE3MDQwMTE2MTAzMloXDTE4MDQwMTIyMTAzMlowJzElMCMGA1UEAx4cAEEARABNAEkATgAtAFAAQwBcAEEAZABtAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtVX/QVgYvB+5JsgIuKYkr2GeOPaH3edEvFD+Ejqd7LbXRzZ2lsdrrebtDwK90BOwQM+WaoWc7sPayvNcqZOZY0SaWsm4DAn1MH/MUvP4s7jypOjHmvFAjYAqkKUSyxa9omLAVNWHTL9uwPRvyKsY3eRv/qZ2VCYv5nXO+xgkIAECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAJ/rOF2Su13BtDRt0urhhohxXZ2R/Y42NP24QvFhM+STac0hud+HwVhXaaqm7Hc4Z8Ky7KAT7GaCbQwL+h1HKGGmO8imfDri3mpyhhhH+NsMB1Sidhy/orRFRCm455KBJlqhalTAUVxNOMRaqphL3GpqFJtq7i7eATt1P4lD9ZHA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

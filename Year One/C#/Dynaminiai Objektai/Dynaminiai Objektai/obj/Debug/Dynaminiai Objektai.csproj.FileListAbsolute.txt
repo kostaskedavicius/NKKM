@@ -1,0 +1,18 @@
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.exe.config
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai_Objektai.Form1.resources
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai_Objektai.Properties.Resources.resources
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.exe
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.pdb
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.exe
+D:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.pdb
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.exe.config
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.exe
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\bin\Debug\Dynaminiai Objektai.pdb
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai_Objektai.Form1.resources
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai_Objektai.Properties.Resources.resources
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.csproj.GenerateResource.Cache
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.exe
+F:\Programming\NKKM\c#\Dynaminiai Objektai\Dynaminiai Objektai\obj\Debug\Dynaminiai Objektai.pdb

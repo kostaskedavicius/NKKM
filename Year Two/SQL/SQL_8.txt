@@ -1,0 +1,83 @@
+CREATE database PriesTesta;
+USE PriesTesta;
+
+CREATE TABLE Employee
+(
+ ID Serial,
+ Name VARCHAR(50) NOT NULL,
+ LastName VARCHAR(50) NOT NULL,
+ Email VARCHAR(150) UNIQUE NOT NULL,
+ Salary FLOAT(7,2) UNSIGNED
+);
+
+INSERT INTO Employee VALUES
+(NULL,'Vardenis','Pavardenis','Vardenis@Pavardenis.com',1320.21),
+(NULL,'John','Smith','John@Smith.com',457.66),
+(NULL,'John','Brown','John@Brown.com',784.12),
+(NULL,'John','Doe','John@Doe.com',443.97),
+(NULL,'Jack','Sattila','Jack@Sattila.com',6666.66);
+
+UPDATE Employee SET Salary = 200 WHERE email = '';
+
+--Transaction
+START TRANSACTION;
+commit;
+
+INSERT INTO Employee VALUES (NULL,'Naujas','Senas','naujas@senas.com',88888);
+
+
+--Create new user
+CREATE USER 'user1'@'localhost' IDENTIFIED BY 'user1';
+
+--Grant admin
+GRANT ALL PRIVILEGES ON PriesTesta.Employee TO 'user1'@'localhost';
+
+--Grant privileges
+GRANT select,insert,update,delete ON PriesTesta.* TO 'user1'@'localhost';
+
+
+
+CREATE TABLE Stats
+(
+ ID Serial,
+ action enum('Insert','Update','Delete'),
+ curr_user VARCHAR(50),
+ curr_id BIGINT UNSIGNED,
+ mod_date TIMESTAMP
+);
+
+--TRIGGER
+--CREATE TRIGGER <triggerName> <action> <query type> ON <table> FOR EACH ROW BEGIN .... END
+--<action> => before||after
+--<query type> insert||update||delete
+
+DELIMITER $$
+CREATE TRIGGER InsertTrigger AFTER INSERT ON Employee FOR EACH ROW 
+BEGIN
+INSERT INTO Stats VALUES (NUll,'Insert',USER(),NEW.ID);
+END $$
+DELIMITER;
+
+DELIMITER $$
+CREATE TRIGGER DeleteTrigger AFTER INSERT ON Employee FOR EACH ROW 
+BEGIN
+INSERT INTO Stats VALUES (NUll,'Delete',USER(),NEW.ID);
+END $$
+DELIMITER;
+
+CREATE TABLE Stats2
+(
+ ID Serial,
+ user_ID BIGINT UNSIGNED,
+ OldSalary float(7,2),
+ NewSalary float(7,2),
+ mod_date TIMESTAMP
+);
+
+DELIMITER $$
+CREATE TRIGGER UserSalaryTrigger BEFORE UPDATE ON Employee FOR EACH ROW
+BEGIN
+INSERT INTO Stats2(user_id,OldSalary) VALUES(old.id,old.salary,new.salary);
+END$$
+DELIMITER;
+

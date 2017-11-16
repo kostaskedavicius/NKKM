@@ -1,0 +1,105 @@
+CREATE database School;
+
+USE School;
+
+CREATE TABLE Students
+(
+ ID Serial,
+ Name VARCHAR(30),
+ LastName VARCHAR(30),
+ Score TINYINT UNSIGNED
+);
+
+INSERT INTO Students VALUES
+(NULL,'Jokubas','Petriavicius',78),
+(NULL,'Kostas','Kestavicius',100),
+(NULL,'Kostas','Tadeus',74),
+(NULL,'Mykolas','Kurciavicius',46),
+(NULL,'Adomas','Retardamietis',11);
+
+--Store procedure
+
+--CREATE PROCEDURE GetTable() 
+--(
+-- SELECT * FROM Students
+--);
+
+DELIMITER //
+CREATE PROCEDURE GetTable()
+BEGIN
+SELECT * FROM Students;
+END//
+DELIMITER ;
+
+CALL GetTable();
+
+--Check functions
+SHOW PROCEDURE STATUS WHERE db = 'school';
+
+SHOW CREATE PROCEDURE GetTable;
+
+DELIMITER //
+CREATE PROCEDURE MoreThan(IN nr TINYINT UNSIGNED)
+BEGIN
+SELECT Name,Score FROM Students WHERE Score > nr;
+END//
+DELIMITER ;
+
+SET @kint = 30;
+
+DELIMITER //
+CREATE PROCEDURE MaxScore (OUT maxsc TINYINT UNSIGNED)
+BEGIN
+SELECT MAX(score) INTO maxsc FROM Students;
+END//
+DELIMITER ;
+
+DELIMITER //
+CREATE PROCEDURE PeopleMin (INOUT var INT UNSIGNED)
+BEGIN
+SELECT Name,Score FROM Students WHERE Score > var;
+SELECT MIN(Score) INTO var FROM Students;
+END//
+DELIMITER ;
+
+DELIMITER //
+DROP PROCEDURE IF EXISTS StudNames//
+CREATE PROCEDURE StudNames (IN var INT UNSIGNED)
+BEGIN
+SET @x = 1;
+SET @str = '';
+WHILE @x <= var DO
+SET @str = CONCAT(@str,(SELECT Name FROM Students WHERE ID = @x),',');
+SET @x = @x + 1;
+END WHILE;
+END//
+DELIMITER ;
+
+
+DELIMITER //
+DROP PROCEDURE IF EXISTS Googol //
+CREATE PROCEDURE Googol (IN var VARCHAR(30))
+BEGIN
+SELECT Name FROM Students WHERE Name LIKE (CONCAT("%",var,"%"));
+END//
+DELIMITER ; 
+
+
+DELIMITER //
+DROP PROCEDURE IF EXISTS Exam//
+CREATE PROCEDURE Exam (IN LimitNr TINYINT UNSIGNED)
+BEGIN
+DROP TABLE IF EXISTS Results;
+CREATE TABLE Results
+(
+ID Serial,
+Name VARCHAR(30),
+Passed VARCHAR(3)
+);
+SET @x = 1;
+WHILE @x <= (SELECT COUNT(ID) FROM Students) DO
+INSERT INTO Results VALUES(NULL,(SELECT Name FROM Students WHERE ID = @x),(SELECT IF(((SELECT Score FROM Students WHERE ID = @x)> LimitNr),'Yes','No')));
+SET @x = @x + 1;
+END WHILE;
+END//
+DELIMITER ;

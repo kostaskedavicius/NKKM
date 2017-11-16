@@ -1,0 +1,14 @@
+CREATE DATABASE x;
+CREATE TABLE y
+(
+ 
+ 
+ 
+ 
+ 
+);
+
+
+INSERT INTO y VALUES ();
+
+INSERT INTO y () VALUES ();

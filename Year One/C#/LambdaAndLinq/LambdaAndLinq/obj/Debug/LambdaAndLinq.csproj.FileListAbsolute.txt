@@ -1,0 +1,9 @@
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\bin\Debug\LambdaAndLinq.exe.config
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\bin\Debug\LambdaAndLinq.exe
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\bin\Debug\LambdaAndLinq.pdb
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.Form1.resources
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.Properties.Resources.resources
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.exe
+D:\Programming\NKKM\c#\LambdaAndLinq\LambdaAndLinq\obj\Debug\LambdaAndLinq.pdb

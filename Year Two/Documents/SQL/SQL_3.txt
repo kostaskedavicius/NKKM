@@ -1,0 +1,57 @@
+CREATE DATABASE mydb;
+CREATE TABLE Prekes
+(
+ ID SERIAL PRIMARY KEY,
+ Name VARCHAR(50),
+ Price FLOAT unsigned,
+ Amount SMALLINT unsigned,
+ Item_Type ENUM('Food', 'Household', 'Sports equipment')
+);
+
+--SERIAL == BIGINT unsigned AUTO INCREMENT
+
+
+INSERT INTO Prekes VALUES (NULL,'Apple',3.14,10,1);
+
+INSERT INTO Prekes (Name, Price, Amount) VALUES ('Fruit',6.28,19);
+
+INSERT INTO Prekes (Name,Price,Amount)
+VALUES
+('Cup',2.98,19),
+('Spoon',1.99,2),
+('Laptop',799,1);
+
+INSERT INTO Prekes SET Name = 'Apple';
+
+
+
+
+DELETE FROM Prekes WHERE Name = 'LAPTOP';
+
+--clean table
+TRUNCATE Prekes;
+
+
+
+
+INSERT IGNORE --No error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

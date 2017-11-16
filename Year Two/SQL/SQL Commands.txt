@@ -1,0 +1,114 @@
+--Create new user
+CREATE USER 'user1'@'localhost' IDENTIFIED BY 'user1';
+
+--Grant admin
+GRANT ALL PRIVILEGES ON PriesTesta.Employee TO 'user1'@'localhost';
+
+--Grant privileges
+GRANT select,insert,update,delete ON PriesTesta.* TO 'user1'@'localhost';
+
+--Change table name
+RENAME TABLE users TO userss;
+
+--Change database name
+--YOU CAN'T MUTHAFUKA
+
+--Change table structure
+ALTER TABLE Product ADD COLUMN Price FLOAT UNSIGNED;
+ALTER TABLE Product DROP COLUMN Price FLOAT UNSIGNED;
+
+ALTER TABLE Product ADD COLUMN Release_Date DATE NOT NULL DEFAULT '2017-10-17' AFTER descr;
+--you can also use FIRST
+
+--Set variable
+SET @kint = 30;
+
+--Create Procedure
+DELIMITER //
+CREATE PROCEDURE MoreThan(IN nr TINYINT UNSIGNED)
+BEGIN
+SELECT Name,Score FROM Students WHERE Score > nr;
+END //
+DELIMITER ;
+
+--Procedure with cycles
+DELIMITER //
+DROP PROCEDURE IF EXISTS StudNames//
+CREATE PROCEDURE StudNames ()
+BEGIN
+SET @x = 1;
+SET @str = '';
+WHILE @x <=3 DO
+SET @str = CONCAT(@str,(SELECT Name FROM Students WHERE ID = @x),',');
+SET @x = @x = 1;
+END WHILE;
+END//
+DELIMITER ;
+
+--Call procedure
+CALL GetTable();
+
+--Call procedure with variable
+CALL MoreThan(@kint);
+
+--get all data
+SELECT * FROM users;
+
+--get specific data
+SELECT name,lastname,score FROM users;
+
+--assign alias to collumns
+SELECT name AS Vardas,lastname AS Pavarde,score AS Rezultatas FROM users;
+
+--get data with specific data
+SELECT * FROM users WHERE school = 'NKKM';
+
+--get data where 30<score<60
+SELECT name AS Vardas,lastname AS Pavarde,score AS Rezultatas FROM users WHERE score BETWEEN 3 AND 6;
+
+--get highest score
+SELECT MAX(score) FROM users;
+
+--get lowest score
+SELECT MIN(score) FROM users;
+
+--get average score
+SELECT AVG(score) FROM users;
+
+--count rows
+SELECT COUNT(*) FROM users;
+
+--sum all score
+SELECT sum(score) FROM users;
+
+--all functions in one set
+SELECT SUM(score), MAX(score), MIN(score) FROM users;
+
+--find student by name
+SELECT name, lastname FROM users WHERE name LIKE 'A%';
+
+--sum all student scores
+SELECT name, lastname, SUM(score) FROM users GROUP BY name, lastname ORDER BY score;
+
+--inner join
+SELECT users.name,users.lastname,userdata.address FROM users INNER JOIN userdata ON users.ID = userdata.ID;
+
+--delete data
+DELETE FROM users WHERE ID = 1;
+
+--change specific data
+UPDATE userdata SET UserID = 99 WHERE ID=3;
+UPDATE userdata SET userId = 23, address="Mars" WHERE id=7;
+
+--change all data
+UPDATE userdata SET address = "AAAAA";
+
+--getstudent id;
+SELECT ID FROM users WHERE name='A' AND lastname='B';
+UPDATE userdata SET address="Future" WHERE UserID = 14;
+
+--better way to update data
+UPDATE userdata SET address="Future" WHERE userid=(SELECT id FROM users WHERE name = 'A' AND lastname = 'B');
+
+--foreign key
+FOREIGN KEY(Users_ID) REFERENCES Product(ID);

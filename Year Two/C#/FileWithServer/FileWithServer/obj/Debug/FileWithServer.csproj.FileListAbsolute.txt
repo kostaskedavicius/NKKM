@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\bin\Debug\FileWithServer.exe.config
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\bin\Debug\FileWithServer.exe
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\bin\Debug\FileWithServer.pdb
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.Form1.resources
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.exe
+C:\Users\Admin\Desktop\Kostas\FileWithServer\FileWithServer\obj\Debug\FileWithServer.pdb
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\bin\Debug\FileWithServer.exe.config
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.exe
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.pdb
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\bin\Debug\FileWithServer.exe
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\bin\Debug\FileWithServer.pdb
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.Form1.resources
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.Properties.Resources.resources
+F:\Programming\NKKM\Year Two\FileWithServer\FileWithServer\obj\Debug\FileWithServer.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\bin\Debug\Regular Expressions.exe.config
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\bin\Debug\Regular Expressions.exe
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\bin\Debug\Regular Expressions.pdb
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular Expressions.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular_Expressions.Form1.resources
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular_Expressions.Properties.Resources.resources
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular Expressions.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular Expressions.exe
+D:\Programming\NKKM\c#\Regular Expressions\Regular Expressions\obj\Debug\Regular Expressions.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\bin\Debug\Connect to DB.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\bin\Debug\Connect to DB.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\bin\Debug\Connect to DB.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect to DB.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect_to_DB.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect_to_DB.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect to DB.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect to DB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect to DB.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\obj\Debug\Connect to DB.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Connect to DB\Connect to DB\bin\Debug\MySql.Data.xml

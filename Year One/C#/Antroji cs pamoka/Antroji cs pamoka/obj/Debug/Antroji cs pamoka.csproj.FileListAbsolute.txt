@@ -1,0 +1,9 @@
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\bin\Debug\Antroji cs pamoka.exe.config
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\bin\Debug\Antroji cs pamoka.exe
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\bin\Debug\Antroji cs pamoka.pdb
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji cs pamoka.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji_cs_pamoka.Form1.resources
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji_cs_pamoka.Properties.Resources.resources
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji cs pamoka.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji cs pamoka.exe
+D:\Programming\NKKM\c#\Antroji cs pamoka\Antroji cs pamoka\obj\Debug\Antroji cs pamoka.pdb

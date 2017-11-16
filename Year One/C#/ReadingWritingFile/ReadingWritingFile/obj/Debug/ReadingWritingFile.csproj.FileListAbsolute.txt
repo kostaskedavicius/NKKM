@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\bin\Debug\ReadingWritingFile.exe.config
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\bin\Debug\ReadingWritingFile.exe
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\bin\Debug\ReadingWritingFile.pdb
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.Form1.resources
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.Properties.Resources.resources
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.exe
+C:\Users\Admin\Desktop\ReadingWritingFile\ReadingWritingFile\obj\Debug\ReadingWritingFile.pdb

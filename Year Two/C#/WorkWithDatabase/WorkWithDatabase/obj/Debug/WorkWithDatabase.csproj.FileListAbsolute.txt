@@ -1,0 +1,24 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\WorkWithDatabase\WorkWithDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.exe.config
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.exe
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\bin\Debug\WorkWithDatabase.pdb
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.Form1.resources
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.Properties.Resources.resources
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.exe
+C:\Users\Admin\Desktop\WorkWithDatabase\WorkWithDatabase\obj\Debug\WorkWithDatabase.pdb

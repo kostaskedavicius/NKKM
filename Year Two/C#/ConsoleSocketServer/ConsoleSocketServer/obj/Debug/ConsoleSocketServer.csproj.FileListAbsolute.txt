@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe.config
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.pdb
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.exe
+C:\Users\Admin\Desktop\Kostas\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.pdb
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe.config
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.pdb
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.csprojResolveAssemblyReference.cache
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.csproj.CoreCompileInputs.cache
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.exe
+\\nkkms2\kostaskedavičius\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.pdb
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe.config
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.pdb
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.exe
+F:\Programming\NKKM\Year Two\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.pdb
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe.config
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.exe
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\ConsoleSocketServer\bin\Debug\ConsoleSocketServer.pdb
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.exe
+F:\Programming\NKKM\Year Two\C#\ConsoleSocketServer\ConsoleSocketServer\obj\Debug\ConsoleSocketServer.pdb

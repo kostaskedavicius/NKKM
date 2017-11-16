@@ -1,0 +1,12 @@
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\bin\Debug\Klases Advanced.exe.config
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\bin\Debug\Klases Advanced.exe
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\bin\Debug\Klases Advanced.pdb
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases_Advanced.Form1.resources
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases_Advanced.Properties.Resources.resources
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.exe
+D:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.pdb
+F:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\bin\Debug\Klases Advanced.exe.config
+F:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.exe
+F:\Programming\NKKM\c#\Klases Advanced\Klases Advanced\obj\Debug\Klases Advanced.pdb

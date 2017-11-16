@@ -1,0 +1,47 @@
+--change specific data
+UPDATE userdata SET UserID = 99 where ID=3;
+UPDATE userdata SET userId = 23, address="Mars" WHERE id=7;
+
+--change all data
+UPDATE userdata SET address = "AAAAA";
+
+--getstudent id;
+SELECT ID FROM users where name='A' and lastname='B';
+UPDATE userdata SET address="Future" where UserID = 14;
+
+--better way
+update userdata set address="Future" where userid=(select id from users where name = 'A' and lastname = 'B');
+
+--foreign key(doesn't let you edit data that doesn't exist)
+drop table userdata;
+CREATE TABLE userdata
+(
+id BIGINT unsigned PRIMARY KEY auto_increment,
+userid BIGINT unsigned NOT NULL,
+address VARCHAR(50) NOT NULL, 
+FOREIGN KEY(userID) REFERENCES users(ID) ON DELETE CASCADE
+);
+
+INSERT INTO Userdata VALUES
+(NULL,1,'Moon'),
+(NULL,3,'Mars'),
+(NULL,6,'Saturn'),
+(NULL,9,'Venus'),
+(NULL,4,'Jupiter');
+
+
+--delete data
+DELETE FROM users where ID = 1;
+
+
+create table tbl1
+(
+id bigint unsigned, name varchar(20) primary key
+);
+
+insert into tbl1 values(1,'aaa'),(2,'bbb'),(3,'ccc');
+
+create table tbl2 (id bigint unsigned auto_increment primary key, namekey varchar(20), foreign key(namekey) references tbl1(name) ON UPDATE CASCADE);
+insert into tbl2 values(1,'aaa');
+
+update tbl1 set name='hello' where name='aaa';

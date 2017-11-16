@@ -1,0 +1,52 @@
+SQL = Structures Query Language
+Irankiai:
+1.1 MS ACCESS - $
+1.2 MS Excel - $
+1.3 MySQL server (Oracle) - FREE / $
+1.4 MS SQL Server - FREE / $
+1.5 Oracle DB FREE / $
+
+
+
+
+
+
+
+
+
+
+
+Order
+
+OrderID UMediumInt
+TotalPrice UFloat
+ItemIDList enum
+ItemQuantity USmallInt
+Status
+
+
+Item
+
+ItemID UMediumInt
+ItemName SmallText
+Price UFloat
+CategoryID
+Available bool
+
+
+Category
+
+CategoryID
+
+
+
+Customer
+
+Name SmallText
+Surname SmallText
+Country SmallText
+County SmallText
+StreetLine1 SmallText
+StreetLine2 SmallText
+Phone# uint
+Email SmallText

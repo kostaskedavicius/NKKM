@@ -1,0 +1,22 @@
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.exe.config
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.exe
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.pdb
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.csprojResolveAssemblyReference.cache
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture_Browser.Form1.resources
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture_Browser.Properties.Resources.resources
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.csproj.GenerateResource.Cache
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.exe
+D:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.pdb
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.exe.config
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.exe
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.pdb
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.exe
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.pdb
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.csprojResolveAssemblyReference.cache
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture_Browser.Form1.resources
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture_Browser.Properties.Resources.resources
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.csproj.GenerateResource.Cache
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.exe.manifest
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\bin\Debug\Picture Browser.application
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.exe.manifest
+F:\Programming\NKKM\c#\Picture Browser\Picture Browser\obj\Debug\Picture Browser.application

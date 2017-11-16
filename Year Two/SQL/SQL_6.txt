@@ -1,0 +1,68 @@
+CREATE DATABASE myShop;
+
+use myShop;
+
+CREATE TABLE Product
+(
+ ID SERIAL,
+ Name VARCHAR(30) NOT NULL,
+ Descr VARCHAR(30) NOT NULL,
+ Qnt BIGINT UNSIGNED
+);
+
+CREATE TABLE Users
+(
+ ID Serial,
+ Name VARCHAR(30) NOT NULL,
+ LastName VARCHAR(30) NOT NULL,
+ Email VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE ORDERS
+(
+ ID Serial,
+ Prod_ID BIGINT UNSIGNED NOT NULL,
+ Order_date DATE NOT NULL,
+ User_ID BIGINT UNSIGNED NOT NULL,
+ FOREIGN KEY(Prod_ID) REFERENCES Product(ID) ON DELETE CASCADE,
+ FOREIGN KEY (User_ID) REFERENCES Users(ID) ON DELETE CASCADE
+);
+
+
+INSERT INTO Users VALUES
+(NULL,'Kostas','Kedavicius','Kostas@gmail.com'),
+(NULL,'Kestas','Kontavicius','Gmail@Kostas.com'),
+(NULL,'Konstas','Kestavicius','Gmail@Gmail.com');
+
+INSERT INTO Product VALUES
+(NULL,'Headphones','Good',52),
+(NULL,'Phone','Fine',12),
+(NULL,'Mouse','Could be better',44),
+(NULL,'Keyboard','meh',7),
+(NULL,'Pad','Scuffed',36);
+
+INSERT INTO Orders VALUES
+(NULL,4,'2017-10-14',3),
+(NULL,3,'2017-10-10',1),
+(NULL,1,'2017-10-17',2),
+(NULL,5,'2017-10-16',1);
+
+
+
+
+--Change table name
+RENAME TABLE users TO userss;
+
+--Change table structure
+ALTER TABLE Product ADD COLUMN Price FLOAT UNSIGNED;
+
+ALTER TABLE Product ADD COLUMN Release_Date DATE NOT NULL DEFAULT '2017-10-17' AFTER descr;
+--you can also use first
+
+--change column type
+ALTER TABLE Product CHANGE Price TO StockPrice DOUBLE UNSIGNED DEFAULT 0.01;
+
+--delete foreign key
+ALTER TABLE Orders DROP FOREIGN KEY Orders_ibfk_2;
+
+ALTER TABLE Orders ADD CONSTRAINT user_id_fk  FOREIGN KEY (User_ID) REFERENCES Users(ID) ON DELETE CASCADE;
